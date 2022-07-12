@@ -13,7 +13,7 @@ body {
 	background: url(./assets/wall.jfif) repeat center center fixed;
 	background-size: fill;
 	top: 0;
-	min-width: 280px;
+	min-width: 310px;
 	min-height: 100vh;
 }
 
