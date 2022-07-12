@@ -5,6 +5,8 @@
 
 ![thumbnail](./assets/thumb.jpg)
 
+![vsc](./assets/vsc.png)
+
 ---
 
 #### [Takuya-Homepage](https://www.craftz.dog/)
